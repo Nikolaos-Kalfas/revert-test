@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn how to revert commits in git
+          Learn how to revert commits in git from a new branch
         </a>
       </header>
     </div>
